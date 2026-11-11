@@ -18,7 +18,7 @@ Multipliers are applied to the Gods & Kings ruleset's original technology costs:
 | Information | 20x |
 | Future | 1x |
 
-Individual technology-cost exceptions in the original ruleset are scaled too (Optics and Compass). Building and wonder costs are unchanged.
+Every technology in the original Gods & Kings tree has an explicit scaled research cost, including technologies with individual base-cost overrides. Original technology rows, prerequisites, quotes, and uniques are preserved. Building and wonder costs are unchanged.
 
 ## Installation
 
