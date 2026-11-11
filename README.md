@@ -1,10 +1,10 @@
-# Era-based Science Costs for Unciv (Standard ruleset)
+# Era-Based Science Costs for Unciv — Gods & Kings
 
-An extension mod for the standard **Civ V - Vanilla** ruleset. It changes technology research costs by era while leaving the technology tree, units, buildings, production costs, game speeds, and victory conditions intact.
+An extension mod for the **Civ V - Gods & Kings** ruleset. It increases technology research costs by era to slow scientific progression while preserving the original technology tree, prerequisites, units, buildings, production costs, game speeds, and victory conditions.
 
 ## Research-cost multipliers
 
-Multipliers apply to the standard ruleset's base technology costs:
+Multipliers are applied to the Gods & Kings ruleset's original technology costs:
 
 | Era | Multiplier |
 |---|---:|
@@ -14,17 +14,24 @@ Multipliers apply to the standard ruleset's base technology costs:
 | Renaissance | 9x |
 | Industrial | 12x |
 | Modern | 15x |
+| Atomic | 18x |
+| Information | 20x |
 | Future | 1x |
 
-The mod also scales the standard ruleset's individual technology-cost exceptions (Optics, Compass, and Globalization).
+Individual technology-cost exceptions in the original ruleset are scaled too (Optics and Compass). Building and wonder costs are unchanged.
 
 ## Installation
 
-Add this repository as a mod in Unciv, or download the ZIP archive and import it as a local mod. Enable it alongside **Civ V - Vanilla** when starting a new game. Install the same mod separately on each device; Google Play Games cloud saves do not reliably distribute local mod files.
+In Unciv, open **Mods → Download mod from URL** and enter this repository URL:
+
+https://github.com/VladShubnikov/Unciv-Era-Based-Science-Costs
+
+Enable the mod together with **Civ V - Gods & Kings** when starting a new game. Install the mod separately on every device where you play.
 
 ## Notes
 
-- Intended for the standard **Civ V - Vanilla** ruleset, not Civ V - Gods & Kings or other rulesets.
-- Use Marathon game speed as usual. The multipliers are applied to base technology costs and therefore stack with the selected game's science-cost modifier.
-- Future-era technologies use their normal base costs (1x), so Future Tech remains comparatively inexpensive for score/research completion.
-- Because the mod changes ruleset data, start a new game with the mod enabled.
+- This version is intended for **Civ V - Gods & Kings**. Do not combine it with the Civ V - Vanilla ruleset.
+- Marathon game speed can still be used; its science modifier stacks with these era multipliers.
+- Future-era research remains at the original cost (1x).
+- Start a new game with the mod enabled. Existing saves may retain previously calculated research costs.
+- The mod changes technology research costs only; it does not change unit upgrade rules or the technology tree layout.
