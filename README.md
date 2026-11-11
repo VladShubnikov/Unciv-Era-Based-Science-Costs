@@ -34,4 +34,4 @@ Enable the mod together with **Civ V - Gods & Kings** when starting a new game. 
 - Marathon game speed can still be used; its science modifier stacks with these era multipliers.
 - Future-era research remains at the original cost (1x).
 - Start a new game with the mod enabled. Existing saves may retain previously calculated research costs.
-- The mod changes technology research costs only; it does not change unit upgrade rules or the technology tree layout.
+- The mod changes technology research costs and adjusts the barbarian Galley's obsolescence from Astronomy to Sailing. This aligns its automatic upgrade to Trireme with the Trireme's Sailing prerequisite and removes the corresponding ruleset warning.
