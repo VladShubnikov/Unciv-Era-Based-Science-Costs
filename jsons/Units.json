@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Galley",
+    "_mergeAction": {
+      "action": "UPDATE"
+    },
+    "obsoleteTech": "Sailing"
+  }
+]
