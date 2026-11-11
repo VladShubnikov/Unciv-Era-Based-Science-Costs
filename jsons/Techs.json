@@ -23,7 +23,7 @@
   { "columnNumber": 13, "era": "Modern era", "techCost": 96000, "buildingCost": 360, "wonderCost": 1250, "techs": [] },
   { "columnNumber": 14, "era": "Modern era", "techCost": 115500, "buildingCost": 360, "wonderCost": 1500,
     "techs": [
-      { "name": "Globalization", "_mergeAction": { "action": "TRY_INJECT" }, "row": 2, "cost": 142500 }
+      { "name": "Globalization", "_mergeAction": { "action": "TRY_INJECT" }, "row": 3, "cost": 142500 }
     ]
   },
   { "columnNumber": 15, "era": "Future era", "techCost": 8800, "buildingCost": 750, "wonderCost": 1250, "techs": [] },
